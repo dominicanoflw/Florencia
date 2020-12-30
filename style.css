@@ -1,0 +1,40 @@
+
+  
+html{
+  background-color: hsl(67, 10%, 75%);
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  text-align: justify;
+}
+  
+
+
+h1{
+  text-align: right;
+  color: hsl(240, 65%, 25%);
+  font-weight: 900;
+  letter-spacing: 50px;
+  text-align: right;
+  text-transform: uppercase;
+}
+h2.verde{
+  background-color: hsl(68, 30%, 30%);
+  color: white;
+}
+img.izquierda {
+  float: left;
+}
+h2.centro{
+  clear: both;
+  background-color: hsl(68, 30%, 30%);
+  color: white;
+}
+p.centro{
+  text-align: center;
+}
+img.derecha{
+  float: right;
+}
+p.separado{
+  clear: both;
+}
